@@ -6,6 +6,8 @@ See title for description. I've only put things I've used here btw. Made so I do
 
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
   - Describes must haves, nice to haves, and at your preference ways to configure git, immediately useful
+- [gitignore.io](https://www.toptal.com/developers/gitignore)
+  - Generates .gitignore files for x for you
 
 ## Linux
 
